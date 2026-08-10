@@ -1,0 +1,35 @@
+
+#config made by vase
+
+## all os based stuff
+```
+os
+kernel
+uptime
+packages
+shell
+wm
+font
+terminal
+cpu
+gpu
+memory
+swap
+disk
+```
+##labels
+```
+separator=~
+
+```
+#3d render stuff
+```
+shading_mode=sextants
+speed=0.81
+spin=yx
+size=0.85
+depth=0.9
+
+```
+
+
