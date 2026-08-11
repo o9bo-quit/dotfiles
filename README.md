@@ -33,3 +33,4 @@ cp fetch/config ~/.config/fetch/config
 cp kitty/kitty.conf ~/.config/kitty/kitty.conf
 cp kitty/cap-theme.conf ~/.config/kitty/cap-theme.conf
 ```
+![Fastfetch](Pictures/fastfetch.png)
