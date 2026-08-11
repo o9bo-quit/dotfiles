@@ -11,17 +11,15 @@ My personal dotfiles for my Terminal.
 - **Fetch** — system information
 
 ## Structure
-
+```text
 dotfiles/
 ├── fastfetch/
 ├── fetch/
 ├── fish/
 ├── kitty/
 └── starship.toml
-
+```
 ## Setup 
-Clone the repo
-
 ```text
 git clone 
 cd ~/dotfiles/
