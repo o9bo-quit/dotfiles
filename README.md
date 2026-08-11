@@ -12,7 +12,6 @@ My personal dotfiles for my Terminal.
 
 ## Structure
 
-```text
 dotfiles/
 ├── fastfetch/
 ├── fetch/
@@ -23,7 +22,7 @@ dotfiles/
 ## Setup 
 Clone the repo
 
-```bash
+```text
 git clone 
 cd ~/dotfiles/
 cp fish/config.fish ~/.config/fish/config.fish
