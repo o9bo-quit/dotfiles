@@ -1,7 +1,7 @@
 
 #config made by vase
 
-## all os based stuff
+
 ```
 os
 kernel
@@ -17,7 +17,7 @@ memory
 swap
 disk
 ```
-##labels
+
 ```
 separator=~
 
