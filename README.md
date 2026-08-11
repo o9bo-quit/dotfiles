@@ -21,7 +21,7 @@ dotfiles/
 ```
 ## Setup 
 ```text
-git clone 
+git clone https://github.com/o9bo-quit/dotfiles.git
 cd ~/dotfiles/
 cp fish/config.fish ~/.config/fish/config.fish
 cp ./starship.toml ~/.config/starship.toml
